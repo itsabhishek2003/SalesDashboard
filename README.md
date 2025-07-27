@@ -36,5 +36,3 @@ This project presents an interactive sales dashboard built in Power BI to analyz
 - KPI development and DAX analytics
 - Data visualization and interactive dashboard design (Power BI)
 - Business analysis and insight communication
-
-Feel free to copy and further personalize this README as your project evolves!
